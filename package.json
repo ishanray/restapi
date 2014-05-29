@@ -1,0 +1,26 @@
+{
+  "name": "rest",
+  "version": "0.0.0",
+  "description": "Rest API with ExpressJS and MongoDB",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.2.2",
+    "express": "^4.3.2",
+    "mongoose": "^3.8.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ishanray/restapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishanray/restapi/issues"
+  },
+  "homepage": "https://github.com/ishanray/restapi"
+}
